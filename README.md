@@ -1,2 +1,2 @@
 # app-web-test
-Aplicação para teste web
+Aplicação web para teste
